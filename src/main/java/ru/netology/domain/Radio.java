@@ -1,5 +1,6 @@
-public class Station {
+package ru.netology.domain;
 
+public class Radio {
     private int currentStation;
     private int maxStation = 9;
     private int minStation = 0;
